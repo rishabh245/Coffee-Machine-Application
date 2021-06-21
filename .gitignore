@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+*.swp
+*.swo
+*.swn
+.sass-cache
+*.css.map
+.DS_Store
+.idea
+.cache
+node_modules
+.coverage
+*.ipynb
+__pycache__
